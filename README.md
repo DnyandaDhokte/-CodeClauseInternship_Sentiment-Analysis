@@ -1,12 +1,19 @@
-# -CodeClauseInternship_Sentiment-Analysis
+📌 Sentiment Analysis Tool 🎭
 
-# Sentiment Analysis Tool
+A Python-based Sentiment Analysis Tool that classifies text as Positive 😊, Negative 😡, or Neutral 😐 using TextBlob.
 
-A Python-based sentiment analysis tool that classifies text as Positive, Negative, or Neutral using `TextBlob`.
+🔍 Analyze Sentiments from user-provided text and visualize results with a bar chart! 📊
 
-## Features
-✅ Text Sentiment Classification  
-✅ Sample Review File Support  
-✅ Logging for Debugging  
-✅ Data Visualization  
+🚀 Features
+✅ Real-time Sentiment Analysis (User Input & File-based)
+✅ Handles Missing Files Gracefully
+✅ Logs Results Automatically (sentiment.log)
+✅ Interactive & User-Friendly CLI
+✅ Data Visualization for Sentiment Distribution
 
+🛠️ Technologies Used
+🔹 Python 3.13
+🔹 TextBlob (Sentiment Analysis)
+🔹 Pandas (Data Handling)
+🔹 Matplotlib & Seaborn (Visualization)
+🔹 Logging Module (Debugging)
